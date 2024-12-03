@@ -1,0 +1,23 @@
+body{
+    background-color: #ffcc00; 
+}
+.face{
+    font-size: 200px;
+    text-align: center;
+}
+
+.selection{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    
+}
+.selection__btn{
+    color:white;
+    background-color: #33bbff;
+    font-size: 25px;
+    border-radius: 4px;
+    height: 60px;
+    width: 120px;
+}
+
