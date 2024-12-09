@@ -1,5 +1,7 @@
 body{
-    background-color: #ffcc00; 
+    background-color: #ffcc00;
+    
+    
 }
 .face{
     font-size: 200px;
@@ -20,4 +22,5 @@ body{
     height: 60px;
     width: 120px;
 }
+
 
